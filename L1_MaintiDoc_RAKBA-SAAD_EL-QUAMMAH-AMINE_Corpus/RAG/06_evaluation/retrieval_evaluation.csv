@@ -1,0 +1,6 @@
+requete,famille_attendue,top1_document,top1_bonne_famille,precision_famille_top5
+pneu craquelures du flanc,TYRE_,TYRE_021,oui,1.00
+usure irrégulière bande de roulement,TYRE_,TYRE_001,oui,0.60
+chaîne de moto corrosion nettoyage,CHAIN_,CHAIN_003,oui,1.00
+point dur et tension chaîne,CHAIN_,CHAIN_023,oui,1.00
+pignon couronne dents usées,CHAIN_,CHAIN_019,oui,0.60

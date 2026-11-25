@@ -1,0 +1,17 @@
+{
+  "project_root": "../..",
+  "corpus_root": "../../",
+  "source_documents": "../../documents",
+  "source_images": "../../images",
+  "ingestion_text": "02_ingestion/textes",
+  "ingestion_images": "02_ingestion/images_extraites",
+  "rendered_pages": "02_ingestion/pages_rendues",
+  "chunks": "03_chunks",
+  "embeddings": "04_embeddings",
+  "vector_store": "05_vector_store/chroma",
+  "evaluation": "06_evaluation",
+  "reports": "07_reports",
+  "scripts": "08_scripts",
+  "notebooks": "09_notebooks",
+  "logs": "10_logs"
+}

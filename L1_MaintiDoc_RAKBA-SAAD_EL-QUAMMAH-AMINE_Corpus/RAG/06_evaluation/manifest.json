@@ -1,0 +1,461 @@
+{
+  "pipeline": "notebook-compatible multimodal RAG",
+  "model_name": "ViT-B-32",
+  "pretrained": "laion2b_s34b_b79k",
+  "device": "cpu",
+  "text_dimension": 512,
+  "image_dimension": 512,
+  "documents": [
+    {
+      "document_id": "CHAIN_001",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_001.pdf",
+      "sha256": "3c56230a8491903bd9cc778374e4af99bf700e04a8f1e8729996488edd819fbf",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_002",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_002.pdf",
+      "sha256": "95169f0b7f0329196625ccbceed525ee3ddce28d49c90fde68776d7d89dee7f4",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_003",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_003.pdf",
+      "sha256": "50883334857b8873f3cb4de1e375dcb01197c07f836e6c67addaf318728c4791",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_004",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_004.pdf",
+      "sha256": "775e6d7f9b53c2b1d3332dbd60afa9478bc9defcd84ba3424a0c34abe5f2cd30",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_005",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_005.pdf",
+      "sha256": "97fd88e579a24050206da0b9d82ccc8324cd6f533e122a889244d4c5fe0b0461",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_006",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_006.pdf",
+      "sha256": "4c4a1da9b3e681e5288cc7fa4ced5340072f9b36d1247f560badeca8672d15a4",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_007",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_007.pdf",
+      "sha256": "82a0a3896830b6a92662aa474ffbb0ad0e87e642b5a914566ca4f6d014991c04",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_008",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_008.pdf",
+      "sha256": "a1fd1d3bd29789ad101178b95b7b41de331ece1eb5651a9208f9ad30e1aeb63e",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_009",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_009.pdf",
+      "sha256": "3044b72a2ad42d4938f6c5d00babafa65247b9c8e877c519ade0f9528a425cce",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_010",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_010.pdf",
+      "sha256": "10a825aee442d354fcc4a7536d3cef745c4b5089baf6b6c08b9f36bfe8a2b667",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_011",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_011.pdf",
+      "sha256": "15a48bf12f243135928c44897f03ea7a0c6fc6905c43b872f9a8b07b2860a03f",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_012",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_012.pdf",
+      "sha256": "7267aeb76e277ed789110406a6b1b779607ae45b980defe548676204d7fd0203",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_013",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_013.pdf",
+      "sha256": "eb64da5c24f15e9665bd4e3624a756ad89b5b677da9c6668af2567246585edbf",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_014",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_014.pdf",
+      "sha256": "9b176e1e3e035ef60c70f65b6813516c8bed9dadc0db48a84a629155640685bf",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_015",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_015.pdf",
+      "sha256": "672d3e23620b67d8b83b358a50396f46942cc70e965287355372fb01173bd30d",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_016",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_016.pdf",
+      "sha256": "3882df798ff9626636f4ec0ec78895d48531c574aff9b320ecd3b4d4e0dc2b2a",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_017",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_017.pdf",
+      "sha256": "88320e8a0adaff5216c7205c822d0a4175073fed2929634b67c1642ea97c71aa",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_018",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_018.pdf",
+      "sha256": "04af0a9208c30c35aca8a90dcf087dee5804e73e51c5a60917e242461104830c",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_019",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_019.pdf",
+      "sha256": "3888124a5276451f32c9ff48c36a7a5bd2c7a563e4c647e356a3db9783a884c3",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_020",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_020.pdf",
+      "sha256": "61bed9877c6bb5c5ad56e03f80ac32526a98ddefc7cdf3091b5b3d8c48a0928a",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_021",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_021.pdf",
+      "sha256": "a8bda766ca6f4044515d86021097b261bb20bcc1d105077745c0bc4c5f76d2df",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_022",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_022.pdf",
+      "sha256": "0bedf735dece579b09d3db22e4caeb50187b62f950f6aa89250645efa3eea782",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "CHAIN_023",
+      "family": "famille_2_chaines",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/chains/CHAIN_023.pdf",
+      "sha256": "b20bb5539b520a31a20c96af7bfa36ed3c0b0ee667137b66e28590bb0f6944f3",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_001",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_001.pdf",
+      "sha256": "30a7009349cdeb4e4de84282f7b4669e389fdb3e70c5f5da2661b40994df6027",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_002",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_002.pdf",
+      "sha256": "a14551bcda61dbc5c839c16c8599e6fbd8f1443a79fc0e8a8654488b4407323b",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_003",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_003.pdf",
+      "sha256": "4f77a4955c5a910012af2129a09845752634695387dec05782c6f6ce1eee5cbd",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_004",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_004.pdf",
+      "sha256": "2332e347675732f069cdd1f7d0faba86e718e78e9f0a9da15753d0b847b8935a",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_005",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_005.pdf",
+      "sha256": "c91d64cb2ba184b508168c7895f9b80e32105d0566d708b07a8bc2a6de372ffd",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_006",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_006.pdf",
+      "sha256": "2d8a2921a5dc7b31dddf6e7972d885ae0737cc7611bbf3cf591562bc0612ac43",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_007",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_007.pdf",
+      "sha256": "3de1af243510cb2f82a2176dc477782627a658a07934d16114e8f081a55045bf",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_008",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_008.pdf",
+      "sha256": "308ef1c02925106dc5ef24f7d4ffe463574dd17e748551916eb0b928a5af415b",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_009",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_009.pdf",
+      "sha256": "c761d6a50664f3dea68a742aa88ae0ce8fd35d3e483ea45b54c5c31aa4612960",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_010",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_010.pdf",
+      "sha256": "eed13a91ba54ec212657b8f163b901a4ec5ebe8806cb8d96d204a3f8af71cf1e",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_011",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_011.pdf",
+      "sha256": "ebcf45e381d9be5d13c8b467fe7fe93df702e751183666705e11ef69c0e74364",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_012",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_012.pdf",
+      "sha256": "74b43a6409b9399a49353b0ed7e465fea99a47fc78e3b822428ac7b9d7220663",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_013",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_013.pdf",
+      "sha256": "88d6945601c08b4d998227bb06e5cd5f0444915a96aa6568293dbfe53f1f3236",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_014",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_014.pdf",
+      "sha256": "7b9bf0977363b108d6565058e5b361a5024f659476ba1991b2e184ec38ca79db",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_015",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_015.pdf",
+      "sha256": "cb5a342f62fb5b163316d319289957ad6e3976fba954112f1891aa0a734e89ea",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_016",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_016.pdf",
+      "sha256": "e8971f1742be7a2746a78850aa2e1aea5d644f27165d7c55fef6e83daf4dc45c",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_017",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_017.pdf",
+      "sha256": "5bb79651562c16214c647947847c826ab820b330320dd6ca80b16d9691045b97",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_018",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_018.pdf",
+      "sha256": "4e426253c37a740c92207e4d6d678d635eae6a1b1bd70e7ebd876634b8e3f657",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_019",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_019.pdf",
+      "sha256": "11dedb9b3eb0d1363d38176314562279a9673649e3c9717af72cb06c2ae8246f",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_020",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_020.pdf",
+      "sha256": "78336ae9c78e92d4f25539b1d973ac13dbd9cdd985fb3abbbdac01c63ebe9516",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 6,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_021",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_021.pdf",
+      "sha256": "a5a41d2b9cc55462028a7152329fc6f194b472c4b61627f5ffd83fdaaa73a6f7",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    },
+    {
+      "document_id": "TYRE_022",
+      "family": "famille_1_pneus",
+      "source_pdf": "/home/ubuntu/rag_work/source/final45/tyres/TYRE_022.pdf",
+      "sha256": "9a8db910ef93e10d5122f708c1ca87fdb80582e323f322856922f465bff83706",
+      "pages": 3,
+      "text_chunks": 3,
+      "extracted_images": 9,
+      "blank_text_pages": []
+    }
+  ],
+  "skipped_image_embeddings": []
+}

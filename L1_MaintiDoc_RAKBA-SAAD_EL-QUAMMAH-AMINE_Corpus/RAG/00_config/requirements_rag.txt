@@ -1,0 +1,6 @@
+pymupdf>=2.0
+torch>=2.14
+torchvision
+open_clip_torch>=3.3
+chromadb>=1.5.9
+Pillow

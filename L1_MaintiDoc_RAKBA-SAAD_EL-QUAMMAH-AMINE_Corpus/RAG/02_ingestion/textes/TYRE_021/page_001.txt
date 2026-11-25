@@ -1,0 +1,24 @@
+MAINTiDOC / MotoCareAI
+TYRE_021 — Pneu à état visuel incertain
+
+ Pneu de moto   uncertain   3 pages A4
+
+Problématique. Lorsque l’image ne permet pas de conclure, la bonne réponse est de demander une vue plus
+large, un gros plan et les informations du modèle.
+
+  Observation visuelle : la photographie sert à localiser ou illustrer la zone. Diagnostic : aucune cause
+  mécanique n’est confirmée sans contrôle adapté.
+
+
+
+
+
+Photographie réelle — source et licence indiquées dans la légende.
+
+Composants concernés : zone principale visible, éléments voisins et contexte de montage à préciser avec le modèle de moto.
+
+
+
+
+
+Corpus documentaire spécialisé — TYRE_021 — Pneu à état visuel incertain

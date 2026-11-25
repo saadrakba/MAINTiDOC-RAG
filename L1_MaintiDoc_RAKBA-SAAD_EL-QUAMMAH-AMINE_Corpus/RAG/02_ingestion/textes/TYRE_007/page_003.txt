@@ -1,0 +1,28 @@
+MAINTiDOC / MotoCareAI
+Maintenance, sécurité et références
+
+ Inspection et maintenance
+ 1. Stabiliser la moto et arrêter le moteur avant toute inspection.
+ 2. Nettoyer ou éclairer la zone sans créer de dommage supplémentaire.
+ 3. Comparer avec le manuel du modèle et relever les mesures nécessaires.
+ 4. Consigner l’observation, l’incertitude et la décision de remise en service.
+
+ Sécurité et limites
+
+  Une image peut montrer un indice, mais ne permet pas toujours de confirmer la pression, la tension,
+  l’allongement, l’alignement, la structure interne ou la tolérance de remplacement.
+
+ Références
+
+[1] TyreNet, Mendeley Data, DOI 10.17632/32b5vfj6tc.1, CC BY 4.0.
+[2] Michelin, Tips For Caring For Your Motorcycle Tires, consulté le 2026-11-02.
+[3] Bridgestone, Motorcycle Tire Safety & Maintenance Manual, consulté le 2026-11-02.
+
+Licences photographiques : TyreNet, V. S. Mahendra et M. Parameswaran, CC BY 4.0 ; auteur image individuel non fourni dans l’archive.
+Les originaux sont conservés séparément des versions annotées. Les images annotées ont été modifiées uniquement par repérage visuel.
+
+
+
+
+
+Corpus documentaire spécialisé — Maintenance, sécurité et références

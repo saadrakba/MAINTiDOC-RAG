@@ -1,0 +1,512 @@
+[
+  {
+    "query": "pneu craquelures du flanc",
+    "expected_prefix": "TYRE_",
+    "collections": {
+      "text": [
+        {
+          "document_id": "TYRE_021",
+          "page": 1,
+          "distance": 0.36065226793289185,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_021 — Pneu à état visuel incertain\n\n Pneu de moto   uncertain   3 pages A4\n\nProblématique. Lorsque l’image ne permet pas de conclure, la bonne réponse e"
+        },
+        {
+          "document_id": "TYRE_007",
+          "page": 1,
+          "distance": 0.3704248070716858,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_007 — Coupure du flanc\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. Une coupure est décrite comme une zone de gomme interrompue. Sa profondeur"
+        },
+        {
+          "document_id": "TYRE_006",
+          "page": 1,
+          "distance": 0.37563157081604004,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_006 — Craquelures du flanc\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. Les craquelures de surface exigent une inspection complète du flanc, d"
+        },
+        {
+          "document_id": "TYRE_002",
+          "page": 1,
+          "distance": 0.4113306403160095,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_002 — Usure des épaules\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. Une usure plus marquée vers les épaules peut être observée, mais sa cause"
+        },
+        {
+          "document_id": "TYRE_022",
+          "page": 1,
+          "distance": 0.4181104898452759,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_022 — Photographie insuffisante pour conclure\n\n Pneu de moto   uncertain   3 pages A4\n\nProblématique. Ce document formalise les critères d’une image non"
+        }
+      ],
+      "page_visual": [
+        {
+          "document_id": "TYRE_016",
+          "page": 2,
+          "distance": 0.6550506353378296,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_021",
+          "page": 2,
+          "distance": 0.6560642719268799,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_013",
+          "page": 2,
+          "distance": 0.6561613082885742,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_012",
+          "page": 2,
+          "distance": 0.6574049592018127,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_001",
+          "page": 2,
+          "distance": 0.6579858064651489,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ],
+      "extracted_image": [
+        {
+          "document_id": "TYRE_002",
+          "page": 2,
+          "distance": 0.6933922171592712,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_003",
+          "page": 2,
+          "distance": 0.6933922171592712,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_006",
+          "page": 3,
+          "distance": 0.6933922171592712,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "TYRE_014",
+          "page": 1,
+          "distance": 0.6933922171592712,
+          "preview": "MAINTiDOC / MotoCareAI TYRE_014 — Contamination de la gomme Pneu de moto visible 3 pages A4 Problématique. Une substance sur la gomme doit être identifiée sans supposer son effet. "
+        },
+        {
+          "document_id": "TYRE_014",
+          "page": 2,
+          "distance": 0.6933922171592712,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ]
+    }
+  },
+  {
+    "query": "usure irrégulière bande de roulement",
+    "expected_prefix": "TYRE_",
+    "collections": {
+      "text": [
+        {
+          "document_id": "TYRE_001",
+          "page": 1,
+          "distance": 0.4440953731536865,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_001 — Usure centrale de la bande\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. L’usure concentrée au centre doit être mesurée sur plusieurs poi"
+        },
+        {
+          "document_id": "TYRE_021",
+          "page": 1,
+          "distance": 0.4476063847541809,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_021 — Pneu à état visuel incertain\n\n Pneu de moto   uncertain   3 pages A4\n\nProblématique. Lorsque l’image ne permet pas de conclure, la bonne réponse e"
+        },
+        {
+          "document_id": "TYRE_002",
+          "page": 1,
+          "distance": 0.4540308713912964,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_002 — Usure des épaules\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. Une usure plus marquée vers les épaules peut être observée, mais sa cause"
+        },
+        {
+          "document_id": "CHAIN_011",
+          "page": 1,
+          "distance": 0.4782863259315491,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_011 — Usure générale de la chaîne\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. L’usure combine état des composants, allong"
+        },
+        {
+          "document_id": "CHAIN_019",
+          "page": 1,
+          "distance": 0.4784500002861023,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_019 — Usure de la couronne\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Examiner le profil des dents sur toute la couronne."
+        }
+      ],
+      "page_visual": [
+        {
+          "document_id": "CHAIN_002",
+          "page": 2,
+          "distance": 0.7355116009712219,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_015",
+          "page": 2,
+          "distance": 0.7364397644996643,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_006",
+          "page": 2,
+          "distance": 0.736740231513977,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_009",
+          "page": 2,
+          "distance": 0.7381339073181152,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_014",
+          "page": 2,
+          "distance": 0.7382304668426514,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ],
+      "extracted_image": [
+        {
+          "document_id": "CHAIN_002",
+          "page": 2,
+          "distance": 0.797208309173584,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_002",
+          "page": 3,
+          "distance": 0.797208309173584,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "CHAIN_008",
+          "page": 3,
+          "distance": 0.797208309173584,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "CHAIN_020",
+          "page": 2,
+          "distance": 0.797208309173584,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_020",
+          "page": 3,
+          "distance": 0.797208309173584,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        }
+      ]
+    }
+  },
+  {
+    "query": "chaîne de moto corrosion nettoyage",
+    "expected_prefix": "CHAIN_",
+    "collections": {
+      "text": [
+        {
+          "document_id": "CHAIN_003",
+          "page": 1,
+          "distance": 0.2470734715461731,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_003 — Corrosion avancée\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Une corrosion étendue ou profonde est un signe d’alert"
+        },
+        {
+          "document_id": "CHAIN_002",
+          "page": 1,
+          "distance": 0.26800912618637085,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_002 — Corrosion superficielle\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. La rouille visible doit être décrite sans conclu"
+        },
+        {
+          "document_id": "CHAIN_018",
+          "page": 1,
+          "distance": 0.29392433166503906,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_018 — Corrosion du pignon\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Décrire l’oxydation et rechercher des piqûres, sans "
+        },
+        {
+          "document_id": "CHAIN_006",
+          "page": 1,
+          "distance": 0.30105674266815186,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_006 — Joint O-ring ou X-ring endommagé\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Un joint absent, déformé ou coupé doit "
+        },
+        {
+          "document_id": "CHAIN_021",
+          "page": 1,
+          "distance": 0.30737394094467163,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_021 — Nettoyage de la chaîne\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. Utiliser un nettoyant compatible avec les joints"
+        }
+      ],
+      "page_visual": [
+        {
+          "document_id": "CHAIN_003",
+          "page": 2,
+          "distance": 0.6454014778137207,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_015",
+          "page": 2,
+          "distance": 0.646465539932251,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_009",
+          "page": 2,
+          "distance": 0.6472278833389282,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_021",
+          "page": 2,
+          "distance": 0.6492985486984253,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_020",
+          "page": 2,
+          "distance": 0.6508564949035645,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ],
+      "extracted_image": [
+        {
+          "document_id": "CHAIN_004",
+          "page": 1,
+          "distance": 0.6826661229133606,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_004 — Accumulation de saletés abrasives Chaîne de transmission de moto visible 3 pages A4 Problématique. La poussière et les débris peuvent accélérer l"
+        },
+        {
+          "document_id": "CHAIN_005",
+          "page": 1,
+          "distance": 0.6826661229133606,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_005 — Accumulation excessive de graisse Chaîne de transmission de moto visible 3 pages A4 Problématique. La graisse accumulée peut retenir des particul"
+        },
+        {
+          "document_id": "CHAIN_005",
+          "page": 2,
+          "distance": 0.6826661229133606,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_011",
+          "page": 2,
+          "distance": 0.6826661229133606,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_022",
+          "page": 3,
+          "distance": 0.6826661229133606,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        }
+      ]
+    }
+  },
+  {
+    "query": "point dur et tension chaîne",
+    "expected_prefix": "CHAIN_",
+    "collections": {
+      "text": [
+        {
+          "document_id": "CHAIN_023",
+          "page": 1,
+          "distance": 0.40063661336898804,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_023 — Contrôle chaîne-pignons avant\nremplacement\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. Les recommandations D.I.D et"
+        },
+        {
+          "document_id": "CHAIN_011",
+          "page": 1,
+          "distance": 0.40960168838500977,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_011 — Usure générale de la chaîne\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. L’usure combine état des composants, allong"
+        },
+        {
+          "document_id": "CHAIN_019",
+          "page": 1,
+          "distance": 0.418470561504364,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_019 — Usure de la couronne\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Examiner le profil des dents sur toute la couronne."
+        },
+        {
+          "document_id": "CHAIN_008",
+          "page": 1,
+          "distance": 0.42579638957977295,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_008 — Rouleau fissuré ou cassé\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Un rouleau détérioré modifie le contact avec le"
+        },
+        {
+          "document_id": "CHAIN_013",
+          "page": 1,
+          "distance": 0.4266592264175415,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_013 — Chaîne flottant sur la couronne\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. La séparation visible entre chaîne et c"
+        }
+      ],
+      "page_visual": [
+        {
+          "document_id": "TYRE_010",
+          "page": 2,
+          "distance": 0.7269115447998047,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_006",
+          "page": 2,
+          "distance": 0.7290104031562805,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_007",
+          "page": 2,
+          "distance": 0.7291675806045532,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_016",
+          "page": 2,
+          "distance": 0.7306236028671265,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "TYRE_014",
+          "page": 2,
+          "distance": 0.7307568788528442,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ],
+      "extracted_image": [
+        {
+          "document_id": "CHAIN_004",
+          "page": 3,
+          "distance": 0.7842897772789001,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "CHAIN_010",
+          "page": 2,
+          "distance": 0.7842897772789001,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_016",
+          "page": 2,
+          "distance": 0.7842897772789001,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_022",
+          "page": 2,
+          "distance": 0.7842897772789001,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_022",
+          "page": 3,
+          "distance": 0.7842897772789001,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        }
+      ]
+    }
+  },
+  {
+    "query": "pignon couronne dents usées",
+    "expected_prefix": "CHAIN_",
+    "collections": {
+      "text": [
+        {
+          "document_id": "CHAIN_019",
+          "page": 1,
+          "distance": 0.4327383041381836,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_019 — Usure de la couronne\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Examiner le profil des dents sur toute la couronne."
+        },
+        {
+          "document_id": "CHAIN_015",
+          "page": 1,
+          "distance": 0.4578815698623657,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_015 — Dents de pignon usées\n\n Chaîne de transmission de moto    visible   3 pages A4\n\nProblématique. Le profil des dents doit être comparé aux critères"
+        },
+        {
+          "document_id": "TYRE_021",
+          "page": 1,
+          "distance": 0.49685657024383545,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_021 — Pneu à état visuel incertain\n\n Pneu de moto   uncertain   3 pages A4\n\nProblématique. Lorsque l’image ne permet pas de conclure, la bonne réponse e"
+        },
+        {
+          "document_id": "CHAIN_023",
+          "page": 1,
+          "distance": 0.5145736932754517,
+          "preview": "MAINTiDOC / MotoCareAI\nCHAIN_023 — Contrôle chaîne-pignons avant\nremplacement\n\n Chaîne de transmission de moto   procedure   3 pages A4\n\nProblématique. Les recommandations D.I.D et"
+        },
+        {
+          "document_id": "TYRE_002",
+          "page": 1,
+          "distance": 0.5250471234321594,
+          "preview": "MAINTiDOC / MotoCareAI\nTYRE_002 — Usure des épaules\n\n Pneu de moto    visible   3 pages A4\n\nProblématique. Une usure plus marquée vers les épaules peut être observée, mais sa cause"
+        }
+      ],
+      "page_visual": [
+        {
+          "document_id": "CHAIN_015",
+          "page": 1,
+          "distance": 0.7155526876449585,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_015 — Dents de pignon usées Chaîne de transmission de moto visible 3 pages A4 Problématique. Le profil des dents doit être comparé aux critères du cons"
+        },
+        {
+          "document_id": "CHAIN_002",
+          "page": 1,
+          "distance": 0.7163347005844116,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_002 — Corrosion superficielle Chaîne de transmission de moto visible 3 pages A4 Problématique. La rouille visible doit être décrite sans conclure à la "
+        },
+        {
+          "document_id": "CHAIN_021",
+          "page": 1,
+          "distance": 0.716523289680481,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_021 — Nettoyage de la chaîne Chaîne de transmission de moto procedure 3 pages A4 Problématique. Utiliser un nettoyant compatible avec les joints, un ou"
+        },
+        {
+          "document_id": "CHAIN_002",
+          "page": 2,
+          "distance": 0.7215974926948547,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        },
+        {
+          "document_id": "CHAIN_020",
+          "page": 1,
+          "distance": 0.7222948670387268,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_020 — Couronne renforcée de moto Chaîne de transmission de moto procedure 3 pages A4 Problématique. La photographie d’une couronne de stunt sert à iden"
+        }
+      ],
+      "extracted_image": [
+        {
+          "document_id": "CHAIN_003",
+          "page": 1,
+          "distance": 0.7454120516777039,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_003 — Corrosion avancée Chaîne de transmission de moto visible 3 pages A4 Problématique. Une corrosion étendue ou profonde est un signe d’alerte. Le re"
+        },
+        {
+          "document_id": "CHAIN_003",
+          "page": 3,
+          "distance": 0.7454120516777039,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "CHAIN_009",
+          "page": 3,
+          "distance": 0.7454120516777039,
+          "preview": "MAINTiDOC / MotoCareAI Maintenance, sécurité et références Inspection et maintenance 1. Stabiliser la moto et arrêter le moteur avant toute inspection. 2. Nettoyer ou éclairer la z"
+        },
+        {
+          "document_id": "CHAIN_021",
+          "page": 1,
+          "distance": 0.7454120516777039,
+          "preview": "MAINTiDOC / MotoCareAI CHAIN_021 — Nettoyage de la chaîne Chaîne de transmission de moto procedure 3 pages A4 Problématique. Utiliser un nettoyant compatible avec les joints, un ou"
+        },
+        {
+          "document_id": "CHAIN_021",
+          "page": 2,
+          "distance": 0.7454120516777039,
+          "preview": "MAINTiDOC / MotoCareAI Analyse technique et photographique Zone repérée par annotation MAINTiDOC. Vue complémentaire ou comparaison documentaire — ne constitue pas à elle seule une"
+        }
+      ]
+    }
+  }
+]
