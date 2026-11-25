@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MAINTiDOC — Équipe RAKBA SAAD / EL QUAMMAH AMINE
 
 ## Projet
@@ -35,3 +36,6 @@ Les images TyreNet doivent encore être filtrées par type de véhicule avant re
 ## Arborescence RAG unifiée
 
 Le dossier `Corpus/RAG/` suit une structure portable en dix niveaux : `00_config`, `01_sources`, `02_ingestion`, `03_chunks`, `04_embeddings`, `05_vector_store`, `06_evaluation`, `07_reports`, `08_scripts`, `09_notebooks` et `10_logs`. Les chemins sont relatifs et fonctionnent sous Windows, Linux et macOS. Le détail est dans `Corpus/RAG/ARBORESCENCE.md`.
+=======
+# MAINTiDOC-RAG
+>>>>>>> 7e4b3f4b5b1c95add07b76f09f95a93c3225f09e
